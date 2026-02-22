@@ -10,6 +10,7 @@ public class ArrayListt {
 
         System.out.println("Array list: "+ list);
         System.out.println("Reversed Array list: "+ list.reversed());
+        
         System.out.println(list.contains(45));
     }
 }
